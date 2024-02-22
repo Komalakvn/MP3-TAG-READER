@@ -27,12 +27,12 @@ Size $xx xx xx xx (Four Characters)
 Flags $xx xx
 
 # Requirements:
-1.This application, should be able to handle ID3 version v2.3 tags.
-
-3.Display all the Metadata information from ID3 tag.
-4.User should be able to change Tags according to the options given.
-5.Should display a Help screen on request (--help option).
-6.If ID3 tag is not found, display proper Error messages.
+1. This application, should be able to handle ID3 version v2.3 tags.
+2. Display the version of ID3 tag is used.
+3. Display all the Metadata information from ID3 tag.
+4. User should be able to change Tags according to the options given.
+5. Should display a Help screen on request (--help option).
+6. If ID3 tag is not found, display proper Error messages.
 
 
 
